@@ -12,10 +12,10 @@
 
 <h2>Configuration</h2>
 <p>In the PHP code, you'll need to set your Cloudflare site key and secret key as follows:</p>
-<code>
-    $CF_SITE_KEY = "1x00000000000000000000AA";
-    $CF_SECRET_KEY = "1x0000000000000000000000000000000AA";
-</code>
+```
+$CF_SITE_KEY = "1x00000000000000000000AA";
+$CF_SECRET_KEY = "1x0000000000000000000000000000000AA";
+```
 <p>You should replace the above placeholder keys with your actual Cloudflare site key and secret key.</p>
 
 <h2>Dummy Site Keys and Secret Keys</h2>
